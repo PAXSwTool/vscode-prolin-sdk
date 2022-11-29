@@ -1,7 +1,7 @@
 # vscode-prolin-sdk
 # prolin-project 使用背景
 
-- 本扩展提供给ProlinSDK开发者使用。请先安装ProlinSDK，扩展依赖于prolinSDK开发工具。扩展同时支持windows和linux用户使用vscode开发prolin应用，详细细节请参考下方文档。
+   本扩展提供给ProlinSDK开发者使用。请先安装ProlinSDK，扩展依赖于prolinSDK开发工具。扩展同时支持windows和linux用户使用vscode开发prolin应用，详细细节请参考下方文档。
 
 ## 扩展特色
 
