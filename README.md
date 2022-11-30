@@ -27,7 +27,7 @@ The generated intermediate files and target files are saved in the default direc
 
 本扩展能兼容Prolin SDK创建的项目。 用vscode打开prolinSDK工程目录后，在项目目录根节点右键打开弹出菜单选择初始化项目。“ProlinSDK Initialize”完成项目初始化动作，此功能会重新构造makefile。需要注意的是，在prolinsdk中配置的参数，如预定义、包含目录、引用库目录、引用库等需要重新在vscode中填写（prolinSDK--->Settings菜单项是配置的入口）。
 拷贝的项目处理方式如同Prolin SDK创建的项目，先删除makefile后，再初始化项目即可。
-需要注意，请确保两条路径值(### 这里是假设prolinsdk版本2.9.3安装在了C:\ProlinSDK ###)写入系统环境变量，否则编译会出现问题：
+需要注意，请确保两条路径值(***这里是假设prolinsdk版本2.9.3安装在了C:\ProlinSDK***)写入系统环境变量，否则编译会出现问题：
 ##### C:\ProlinSDK\prolin_sdk_win-2.9.3\sdk
 ##### C:\ProlinSDK\prolin_sdk_win-2.9.3\sdk\tools\msys\bin
 
